@@ -22,7 +22,7 @@ Built with **Python standard library only**. No external dependencies.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/log-your-habit.git
+git clone https://github.com/Disha-1229/log-your-habit.git
 ```
 
 2. Navigate into the folder:
